@@ -1,0 +1,1 @@
+ compile 'org.puredata.android:pd-core:1.0.1' //ver que cuando agregue esto el logcat empezo a tirar lineas que no me tiraba antes, pero 							//anda
